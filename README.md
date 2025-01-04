@@ -64,7 +64,7 @@ Lapbot/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lapbot.git
+git clone https://github.com/lapwtf/lapbot.git
 cd lapbot
 ```
 
