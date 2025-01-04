@@ -1,4 +1,4 @@
-# Lapbot - Advanced Discord Bot
+# Vile - Advanced Discord Bot
 
 A powerful, feature-rich Discord bot built with discord.py, offering comprehensive moderation, utility, and entertainment features.
 
